@@ -1,4 +1,6 @@
 ![TLC Trip Record Data. - from http://www.nyc.gov](http://upload-images.jianshu.io/upload_images/7255718-941cdf3e853ff447.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 Data:
 This project is using the NYC taxi data from the period before July 2016 described and available[nyc.gov](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml), also available either through  [GoogleBiqQuery](https://bigquery.cloud.google.com/table/bigquery-public-data:new_york.tlc_green_trips_2013?pli=1) or in [smaller samples ](http://www.andresmh.com/nyctaxitrips/) or from [archive.org](https://archive.org/details/nycTaxiTripData2013)
 
